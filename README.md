@@ -57,7 +57,7 @@
 </details>
 
 [website]: https://marianaossilva.github.io/
-[mggrafeno]: https://marianaossilva.github.io/
+[mggrafeno]: https://www.mggrafeno.com.br/
 [behance]: https://www.behance.net/marianaoss543c
 [linkedin]: https://www.linkedin.com/in/mariana-de-oliveira-santos-silva-276454108/
 
