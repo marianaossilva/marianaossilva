@@ -29,7 +29,7 @@
 
 ---
 
-### 💛 Latest Projects
+### Latest Projects 💛
 
 
 - [Detecting Collaboration Profiles in Success-based Music Genre Networks | ISMIR@2020](https://opgabriel.github.io/ISMIR2020)
@@ -39,7 +39,7 @@
 
 ---
 
-### 💚 Latest Publications
+### Latest Publications 💚
 
 
 - [Detecting Collaboration Profiles in Success-based Music Genre Networks | ISMIR'20](https://opgabriel.github.io/ISMIR2020)
