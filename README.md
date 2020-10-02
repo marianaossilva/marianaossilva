@@ -14,8 +14,6 @@
 [<img align="center" alt="marianaossilva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  | 
 [<img align="center" alt="marianaossilva | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/behance.svg" />][behance]
 
-<br/>
-
 ---
 
 ### Languages 🧡
@@ -29,8 +27,6 @@
 
 * SQL <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br/>
-
 ---
 
 ### 💛 Latest Projects
@@ -41,8 +37,6 @@
 - [Comusic. | Research Project](https://marianaossilva.github.io/Comusic./)
 - [Minha Empresa | Game Development](https://crudparasempre.github.io/DOCES/)
 
-<br/>
-
 ---
 
 ### 💚 Latest Publications
@@ -51,8 +45,6 @@
 - [Detecting Collaboration Profiles in Success-based Music Genre Networks | ISMIR'20](https://opgabriel.github.io/ISMIR2020)
 - [Collaboration profiles and their impact on musical success | SAC'19](https://doi.org/10.1145/3297280.3297483)
 - [Causality analysis between collaboration profiles and musical success | WebMedia'19](https://doi.org/10.1145/3323503.3349549)
-
-<br/>
 
 ---
 
