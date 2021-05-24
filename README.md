@@ -1,9 +1,8 @@
 ### Hello, I'm [Mariana][website]! 👋
 
 ## I'm a MSc in Computer Science and Data Scientist!
-- 👩🏽‍💻 I’m currently working as an IT Technical Researcher on the [MGgrafeno 2.0][mggrafeno] Project
 - 📊 My research interests include Data Science, Machine Learning and Social Network Analysis
-- 🤓 2020 Goals: Learn and improve my hard and soft skills on Data Science
+- 🤓 Life Goals: Learn and improve my hard and soft skills on Data Science
 - 🤹🏽‍♀️ Fun fact: I love to create visual concepts, using computer software or by hand
 
 ---
@@ -51,7 +50,6 @@
 </details>
 
 [website]: https://marianaossilva.github.io/
-[mggrafeno]: https://www.mggrafeno.com.br/
 [behance]: https://www.behance.net/marianaoss543c
 [linkedin]: https://www.linkedin.com/in/mariana-de-oliveira-santos-silva-276454108/
 
